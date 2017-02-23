@@ -18,7 +18,7 @@
 Database:\\
 IP: 192.168.79.47\\
 Username: sa\\
-Pass: 123465798\\
+Pass: 123465798
 
 # Huyen
 ------
@@ -40,5 +40,5 @@ Pass: 123465798\\
 Database:\\
 IP: 192.168.79.48\\
 Username: test\\
-Pass: 123456\\
+Pass: 123456
 
