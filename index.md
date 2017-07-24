@@ -36,6 +36,7 @@ Pass: 123465798
 | Customer             |<http://192.168.79.48:94>     |
 | MortgageRealSecurity |<http://192.168.79.48:100>    |
 | Asset Pool           |<http://192.168.79.48:105>    |
+| PooledCoverFund      |<http://192.168.79.48:112>    |
 |===================+=================================|
 
 Database:\\
